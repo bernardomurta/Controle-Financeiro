@@ -1,13 +1,13 @@
 # Controle-Financeiro
 
 Controle Financeiro
-https://bernardomurta.github.io/Controle-Financeiro/
+<img src = "./img/bank-webpage.gif" align = "center">
 
  <h1 align = "center" > <b>Controle Financeiro🤑</b> </h1>
 
 <div>
     <h2>👀<b>Overview</b></h2><br>
-    <img src = "controlefinanceiro.gif" align = "center">
+    <img src = "./assets/controlefinanceiro.gif" align = "center">
 </div>
 <br>
 <h2>📄<u><b>Descrição:</b></u></h2>
