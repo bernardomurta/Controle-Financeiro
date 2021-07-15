@@ -1,7 +1,3 @@
-# Controle-Financeiro
-
-Controle Financeiro
-<img src = "./img/bank-webpage.gif" align = "center">
 
  <h1 align = "center" > <b>Controle Financeiro🤑</b> </h1>
 
